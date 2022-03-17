@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - check the code
- * 
+ * print_diagonal - check for a digit
+ * @n : number of \\ to be printed
  * Return: Always 0.
  */
 
