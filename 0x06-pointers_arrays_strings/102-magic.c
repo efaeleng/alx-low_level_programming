@@ -1,11 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - check the code
- * Description: program prints a[2] = 98
- * Return: Always 0 
- */
-
 int main(void)
 {
 	int n;
